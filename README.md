@@ -1,2 +1,4 @@
 # ml-movie-recommender
-A Machine Learning-based Movie Recommendation System using content-based filtering and cosine similarity, integrated with the TMDB API for dynamic poster retrieval, and deployed using Flask for a scalable web interface.
+Online streaming platforms face the challenge of content discovery. With thousands of movies available, users often struggle to find relevant content.
+
+This project builds a Content-Based Movie Recommendation System that suggests similar movies based on metadata and textual features.
