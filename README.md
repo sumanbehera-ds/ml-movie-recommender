@@ -51,13 +51,8 @@ ml-movie-recommender/
 ├── .gitignore
 │
 ├── notebooks/
-│   └── movie_recommender.ipynb
-│
-├── screenshots/
-│   └── app_preview.png
-│
-└── src/
-    └── recommender.py
+    └── movie_recommender.ipynb
+
 ```
 
 ---
