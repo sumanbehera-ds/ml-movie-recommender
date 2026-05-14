@@ -1,33 +1,42 @@
 # 🎬 Movie Recommender System
 
-A content-based movie recommendation system built with Python and Streamlit.  
-The app recommends similar movies using cosine similarity and fetches movie posters dynamically from the TMDB API.
+A content-based Movie Recommendation System built using Python and Streamlit.  
+This application recommends similar movies using cosine similarity and dynamically fetches movie posters from the TMDB API.
+
+---
 
 ## 🚀 Features
 
-- Recommend top 5 similar movies
-- Content-based filtering
-- Cosine similarity-based recommendation
-- TMDB API poster integration
-- Interactive Streamlit web app
-- Simple and beginner-friendly UI
+- 🎥 Recommend top 5 similar movies
+- 🧠 Content-based recommendation system
+- 📊 Cosine similarity algorithm
+- 🖼️ Fetch movie posters using TMDB API
+- 🌐 Interactive Streamlit web application
+- ⚡ Fast and beginner-friendly interface
+
+---
 
 ## 🧠 How It Works
 
-1. Movie metadata is cleaned and processed.
-2. Important text features are combined.
-3. Text is converted into vectors.
-4. Cosine similarity is calculated between movies.
-5. The app returns the most similar movies based on the selected title.
+1. Movie metadata is collected and cleaned
+2. Important features are combined into tags
+3. Text vectorization is applied
+4. Cosine similarity is calculated
+5. Similar movies are recommended based on user selection
+
+---
 
 ## 🛠️ Tech Stack
 
 - Python
 - Pandas
+- NumPy
 - Scikit-learn
 - Streamlit
 - Pickle
 - TMDB API
+
+---
 
 ## 📁 Project Structure
 
@@ -49,3 +58,20 @@ ml-movie-recommender/
 │
 └── src/
     └── recommender.py
+```
+
+---
+
+## 👨‍💻 Author
+
+### Suman Behera
+
+Aspiring Data Scientist & ML Engineer passionate about building Machine Learning and MLOps projects.
+
+🔗 GitHub: https://github.com/sumanbehera-ds
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub.y
