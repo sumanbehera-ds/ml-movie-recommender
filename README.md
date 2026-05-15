@@ -45,7 +45,6 @@ ml-movie-recommender/
 │
 ├── app.py
 ├── movies.pkl
-├── similarity.pkl
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
